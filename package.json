@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "test": "jest --coverage",
+    "test:w": "npm run test -- --watch"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.6.0",
+    "@babel/preset-env": "^7.6.0",
+    "babel-jest": "^24.9.0",
+    "jest": "^24.9.0",
+    "standard": "^14.3.1"
+  }
+}
